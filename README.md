@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 * https://www.linkedin.com/in/marjona6/
 
 ⚡ Fun facts: ...
-* There are estimated to be around 30,000 different varieties of apples around the world, but only about 0.1% of them are sold commercially.
+* There are estimated to be around 30,000 different varieties of apples around the world, but only about 1% of them are sold commercially.
 * Only two national flags in the world incorporate the color purple.
 * Women make up only 11% of web developers. Oops, that one's not actually fun.
