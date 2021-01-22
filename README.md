@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 * HOWEVER, I'm always happy to chat with female developers. There are too few of us, and we need to support one another.
 
 🤔 I’m looking for help with ...
+* If you are looking to learn more about Sharedrobes or interested in investing in the company, let's have a virtual coffee!
 * If you want to share tips about TDD/BDD or about learning COBOL, I'm all ears.
 
 💬 Ask me about ...
