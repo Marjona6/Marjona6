@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 * COBOL
 * TDD/BDD
+* How to build a business
 
 👯 I’m looking to collaborate on ...
 * Realistically, nothing right now. I have a lot on my plate at the moment.
