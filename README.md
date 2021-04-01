@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* Taking a sabbatical to improve my skills and become a better developer.
-* Working as a co-founder and chief frontend developer of [Sharedrobes](www.sharedrobes.com), a peer-to-peer clothing rental & sharing platform.
+* Working full-time as a frontend developer at [Kamion](www.kamion.co), a digital logistics platform.
+* Working part-time as a co-founder and chief frontend developer of [Sharedrobes](www.sharedrobes.com), a peer-to-peer clothing rental & sharing platform.
 
 🌱 I’m currently learning ...
-* COBOL
+* COBOL (on hold for the moment as I've recently started working full-time)
 * TDD/BDD
 * How to build a business
 
