@@ -7,24 +7,21 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* Working full-time as a frontend developer at [Kamion](https://www.kamion.co), a digital logistics platform.
-* Working part-time as a co-founder and chief frontend developer of [Sharedrobes](https://www.sharedrobes.com), a peer-to-peer clothing rental & sharing platform.
+* Working full-time as the lead/sole frontend developer at [Kamion](https://www.kamion.co), a digital logistics platform. (Our repos are over on GitLab, so if my GitHub history is looking about as green as Antarctica, that would be why.)
+* Knitting a cozy blanket
 
 🌱 I’m currently learning ...
-* COBOL (on hold for the moment as I've recently started working full-time)
-* TDD/BDD
-* How to build a business
+* Latvian (the language--sveiki!)
 
 👯 I’m looking to collaborate on ...
 * Realistically, nothing right now. I have a lot on my plate at the moment.
 * HOWEVER, I'm always happy to chat with female developers. There are too few of us, and we need to support one another.
 
 🤔 I’m looking for help with ...
-* If you are looking to learn more about Sharedrobes or interested in investing in the company, let's have a virtual coffee!
-* If you want to share tips about TDD/BDD or about learning COBOL, I'm all ears.
+* I'm always looking for tips and tricks on improving the quality and maintainability of an ever-expanding codebase.
 
 💬 Ask me about ...
-* React, styled components, career development, my opinions.
+* React, styled components, getting started as a developer after a career change, my opinions.
 
 📫 How to reach me: ...
 * https://www.linkedin.com/in/marjona6/
