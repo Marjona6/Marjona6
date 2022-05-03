@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* Working full-time as the lead/sole frontend developer at [Kamion](https://www.kamion.co), a digital logistics platform. (Our repos are over on GitLab, so if my GitHub history is looking about as green as Antarctica, that would be why.)
-* Knitting a cozy blanket
+* a lot of cool and exciting projects at [Wonderway](https://www.wonderway.io/)
 
 🌱 I’m currently learning ...
-* Latvian (the language--sveiki!)
+* Ruby on Rails, or trying to
+* European Portuguese
 
 👯 I’m looking to collaborate on ...
 * Realistically, nothing right now. I have a lot on my plate at the moment.
