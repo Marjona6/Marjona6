@@ -7,18 +7,21 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* a lot of cool and exciting projects at [Wonderway](https://www.wonderway.io/)
+* studying frontend UI architecture through Logic Room's [UI Architecture Academy](https://www.logicroom.co/coaching) 👷‍♀️
+* job hunting (I'm available for frontend roles as early as September 1) 🔍
+* working up to squatting my bodyweight at the gym 🏋️‍♀️
 
 🌱 I’m currently learning ...
-* Ruby on Rails, or trying to
-* European Portuguese
+* UI architecture 👷‍♀️
+* European Portuguese 🇵🇹
+* sailing ⛵
 
 👯 I’m looking to collaborate on ...
 * Realistically, nothing right now. I have a lot on my plate at the moment.
 * HOWEVER, I'm always happy to chat with female developers. There are too few of us, and we need to support one another.
 
 🤔 I’m looking for help with ...
-* I'm always looking for tips and tricks on improving the quality and maintainability of an ever-expanding codebase.
+* my current job search (know anyone hiring experienced frontend developers?) 🔍
 
 💬 Ask me about ...
 * React, styled components, getting started as a developer after a career change, my opinions.
