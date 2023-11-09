@@ -8,23 +8,24 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 * studying frontend UI architecture through Logic Room's [UI Architecture Academy](https://www.logicroom.co/coaching) 👷‍♀️
-* job hunting (I'm available for frontend roles as early as September 1) 🔍
-* working up to squatting my bodyweight at the gym 🏋️‍♀️
+* job hunting (I'm currently available for frontend roles, including freelance, short-term, contract, etc.) 🔍
 
 🌱 I’m currently learning ...
 * UI architecture 👷‍♀️
 * European Portuguese 🇵🇹
 * sailing ⛵
+* fencing 🤺
 
 👯 I’m looking to collaborate on ...
-* Realistically, nothing right now. I have a lot on my plate at the moment.
-* HOWEVER, I'm always happy to chat with female developers. There are too few of us, and we need to support one another.
+* interesting projects (I'm interested in a LOT, so try me)
+* building websites for women who need them (got a side project? small business? NGO? I want to help you! Get in touch!)
 
 🤔 I’m looking for help with ...
 * my current job search (know anyone hiring experienced frontend developers?) 🔍
 
 💬 Ask me about ...
 * React, styled components, getting started as a developer after a career change, my opinions.
+* Fencing, sailing, hiking, sports.
 
 📫 How to reach me: ...
 * https://www.linkedin.com/in/marjona6/
