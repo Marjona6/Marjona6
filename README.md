@@ -7,13 +7,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* studying frontend UI architecture through Logic Room's [UI Architecture Academy](https://www.logicroom.co/coaching) 👷‍♀️
 * job hunting (I'm currently available for frontend roles, including freelance, short-term, contract, etc.) 🔍
+* doing some contract/freelance work, as well as pro bono work for people and causes I feel strongly about
 
 🌱 I’m currently learning ...
-* UI architecture 👷‍♀️
 * European Portuguese 🇵🇹
-* sailing ⛵
 * fencing 🤺
 
 👯 I’m looking to collaborate on ...
@@ -22,6 +20,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with ...
 * my current job search (know anyone hiring experienced frontend developers?) 🔍
+* how I might transition into a role that's more focused on UX and/or project management
 
 💬 Ask me about ...
 * React, styled components, getting started as a developer after a career change, my opinions.
