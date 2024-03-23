@@ -7,23 +7,24 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* job hunting (I'm currently available for frontend roles, including freelance, short-term, contract, etc.) 🔍
+* working!
 * doing some contract/freelance work, as well as pro bono work for people and causes I feel strongly about
+* volunteering with a really cool organization!
 
 🌱 I’m currently learning ...
 * European Portuguese 🇵🇹
 * fencing 🤺
+* sailing again! ⛵
 
 👯 I’m looking to collaborate on ...
 * interesting projects (I'm interested in a LOT, so try me)
 * building websites for women who need them (got a side project? small business? NGO? I want to help you! Get in touch!)
 
 🤔 I’m looking for help with ...
-* my current job search (know anyone hiring experienced frontend developers?) 🔍
-* how I might transition into a role that's more focused on UX and/or project management
+* discovering the meaning of life
 
 💬 Ask me about ...
-* React, styled components, getting started as a developer after a career change, my opinions.
+* React, atomic design, getting started as a developer after a career change, my opinions.
 * Fencing, sailing, hiking, sports.
 
 📫 How to reach me: ...
