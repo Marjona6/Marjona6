@@ -7,14 +7,13 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* working!
-* doing some contract/freelance work, as well as pro bono work for people and causes I feel strongly about
-* volunteering with a really cool organization!
+* working with a really cool startup, building fast and furious
+* doing occasional contract/freelance work, as well as pro bono work for people and causes I feel strongly about
 
 🌱 I’m currently learning ...
 * European Portuguese 🇵🇹
 * fencing 🤺
-* sailing again! ⛵
+* sailing ⛵
 
 👯 I’m looking to collaborate on ...
 * interesting projects (I'm interested in a LOT, so try me)
