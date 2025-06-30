@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-* working with a really cool startup, building fast and furious
+* searching for my next opportunity! I'm open to contract, temporary, permanent, full-time, part-time... the important thing is that it's something awesome!
 * doing occasional contract/freelance work, as well as pro bono work for people and causes I feel strongly about
 
 🌱 I’m currently learning ...
